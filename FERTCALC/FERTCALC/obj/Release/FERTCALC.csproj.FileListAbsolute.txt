@@ -1,0 +1,8 @@
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\bin\Release\FERTCALC.exe.config
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\bin\Release\FERTCALC.exe
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\bin\Release\FERTCALC.pdb
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\obj\Release\FERTCALC.Form1.resources
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\obj\Release\FERTCALC.Properties.Resources.resources
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\obj\Release\FERTCALC.csproj.GenerateResource.cache
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\obj\Release\FERTCALC.exe
+C:\Users\patrik.svensson\source\repos\FERTCALC\FERTCALC\obj\Release\FERTCALC.pdb
